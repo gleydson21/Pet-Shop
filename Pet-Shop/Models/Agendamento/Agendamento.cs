@@ -1,6 +1,8 @@
-﻿namespace Pet_Shop.Models.Agendamento
+﻿using Pet_Shop.Models.Interfaces;
+
+namespace Pet_Shop.Models.Agendamento
 {
-    public class Agendamento
+    public class Agendamento : IAgendamento
     {
         public int Id { get; set; }
         public required string NomeCliente { get; set; }

@@ -1,42 +1,35 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PetShop.Models;
-using System;
-using System.Collections.Generic;
+using Pet_Shop.Models;
+using Pet_Shop.Models.Agendamento;
 
-namespace PetShop.Controllers
-{
+namespace Pet_Shop.Controllers
+
     public class AgendamentoController : Controller
+{
+    private readonly IRepository<Agendamento> repository;
+
+    public AgendamentoController(IRepository<Agendamento> repository)
     {
-        public IActionResult Index()
-        {
-            List<Agendamento> agendamentos = ObterAgendamentos();
+        this.repository = repository;
+    }
 
-            return View(agendamentos);
+    [HttpPost]
+    public IActionResult Agendar(Agendamento agendamento)
+    {
+        // Valide os dados de entrada
+        if (agendamento.NomeCliente == null || agendamento.NomeCliente == null || agendamento.Servico == null || agendamento.DataHora == null)
+        {
+            return BadRequest();
         }
 
-        public IActionResult Criar()
-        {
-            return View();
-        }
+        // Adiciona o agendamento ao banco de dados
+        repository.Add(agendamento);
 
-        [HttpPost]
-        public IActionResult Criar(Agendamento agendamento)
-        {
-            // Aqui você pode realizar o tratamento dos dados (salvar em um banco de dados, etc.)
+        // Salva as alterações no banco de dados
+        repository.SaveChanges();
 
-            return RedirectToAction("Index");
-        }
-
-        private List<Agendamento> ObterAgendamentos()
-        {
-            // Exemplo de agendamentos apenas para demonstração
-            return new List<Agendamento>
-            {
-                new Agendamento { Id = 1, NomeCliente = "John Doe", NomePet = "Rex", Servico = "Banho e Tosa", DataHora = DateTime.Now.AddDays(1) },
-                new Agendamento { Id = 2, NomeCliente = "Jane Doe", NomePet = "Fluffy", Servico = "Consulta Veterinária", DataHora = DateTime.Now.AddDays(2) },
-                new Agendamento { Id = 3, NomeCliente = "Alex Smith", NomePet = "Max", Servico = "Corte de Unhas", DataHora = DateTime.Now.AddDays(3) },
-            };
-        }
+        // Retorne uma mensagem de sucesso
+        return Ok();
     }
 }
-
+}

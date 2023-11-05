@@ -1,19 +1,45 @@
 ﻿@{
     ViewData["Title"] = "Agendamento";
 }
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Agendamento de Pacientes</title>
+</head>
+<body>
+    <h1>Agendamento de Pacientes</h1>
 
-@model List<Agendamento>
-
-<h1>Agendamentos</h1>
-
-<table>
-    <tr>
-        <th>Cliente</th>
-        <th>Nome do Pet</th>
-        <th>Serviço</th>
-        <th>Data e Hora</th>
-    </tr>
-   
-</table>
-
-<a href="/Agendamento/Criar">Novo Agendamento</a>
+    <form action="/agendamentos" method="post">
+        <div class="form-group">
+            <label for="nome-cliente">Nome do Cliente</label>
+            <input type="text" class="form-control" id="nome-cliente" name="nomeCliente">
+        </div>
+        <div class="form-group">
+            <label for="nome-pet">Nome do Pet</label>
+            <input type="text" class="form-control" id="nome-pet" name="nomePet">
+        </div>
+        <div class="form-group">
+            <label for="especie">Espécie</label>
+            <input type="text" class="form-control" id="especie" name="especie">
+        </div>
+        <div class="form-group">
+            <label for="raca">Raça</label>
+            <input type="text" class="form-control" id="raca" name="raca">
+        </div>
+        <div class="form-group">
+            <label for="servico">Serviço</label>
+            <select class="form-control" id="servico" name="servico">
+                <option value="banho-e-tosa">Banho e Tosa</option>
+                <option value="consulta-veterinaria">Consulta Veterinária</option>
+                <option value="corte-de-unhas">Corte de Unhas</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="data-hora">Data e Hora</label>
+            <input type="datetime-local" class="form-control" id="data-hora" name="dataHora">
+        </div>
+        <button type="submit" class="btn btn-primary">Agendar</button>
+    </form>
+</body>
+</html>
