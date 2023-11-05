@@ -5,16 +5,912 @@
       "PackagePath": "staticwebassets\\Pet-Shop.bundle.scp.css"
     },
     {
-      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\blog_details.html",
+      "PackagePath": "staticwebassets\\blog_details.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\contact_process.php",
+      "PackagePath": "staticwebassets\\contact_process.php"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\elements.html",
+      "PackagePath": "staticwebassets\\elements.html"
     },
     {
       "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\html\\about.html",
+      "PackagePath": "staticwebassets\\html\\about.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\about.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\about.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\blog1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\blog2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\blog3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\contact_bg.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\contact_bg.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\contact_form.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\contact_form.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\gallery1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\gallery2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\gallery3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\gallery4.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery4.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\section_bg02.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\section_bg02.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\section_bg03.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\section_bg03.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\section_bg04.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\section_bg04.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\shape1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\shape1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\team1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\team2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\team3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\team3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\gallery\\testi-logo.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\testi-logo.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\hero\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\about.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\hero\\contact_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\contact_hero.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\hero\\gallery.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\gallery.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\hero\\h1_hero.png",
+      "PackagePath": "staticwebassets\\img\\hero\\h1_hero.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\hero\\hero2.png",
+      "PackagePath": "staticwebassets\\img\\hero\\hero2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\img\\testmonial\\Homepage_testi.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\Homepage_testi.png"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
       "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -243,6 +1139,110 @@
     {
       "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\readme.txt",
+      "PackagePath": "staticwebassets\\readme.txt"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_about-details.scss",
+      "PackagePath": "staticwebassets\\scss\\_about-details.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_contact_animal-owner.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact_animal-owner.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_contact_form.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact_form.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_project_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_project_gallery.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\ProjetosFlutter\\Pet-Shop\\Pet-Shop\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Pet-Shop.Microsoft.AspNetCore.StaticWebAssets.props",

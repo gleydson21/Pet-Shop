@@ -9,5 +9,7 @@ namespace Pet_Shop.Models.Agendamento
         public required string NomePet { get; set; }
         public required string Servico { get; set; }
         public DateTime DataHora { get; set; }
+        public object Especie { get; internal set; }
+        public object Raça { get; internal set; }
     }
 }
